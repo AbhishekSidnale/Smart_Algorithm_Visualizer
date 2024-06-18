@@ -1,4 +1,4 @@
-# Smart_Algorithm_Visualizer
+
 # Smart Algorithm Visualizer
 
 Smart Algorithm Visualizer is a web application created with HTML, CSS, and JavaScript that allows you to visualize various algorithms in action, helping you understand how they work step by step.
