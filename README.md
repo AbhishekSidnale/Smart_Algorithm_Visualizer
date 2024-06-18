@@ -28,7 +28,7 @@ Smart Algorithm Visualizer is designed to help users understand algorithms visua
 
 ## Demo
 
-![Demo](demo.gif)
+visit website - https://smartalgovisualization.netlify.app/
 
 ## Usage
 
